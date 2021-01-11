@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Solomia\source\repos\Project13.2\Project13.2\Source.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Solomia\source\repos\Project13.2\Project13.2\Source.cpp(59,13): warning C4129: ' ': unrecognized character escape sequence
+  Project13.2.vcxproj -> C:\Users\Solomia\source\repos\Project13.2\Debug\Project13.2.exe
